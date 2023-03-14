@@ -3192,8 +3192,16 @@ hero-btn {
     margin-top: 30px;
   }
 }
+
+.logo img {
+  height: 80px;
+}
+
 .footer-area .footer-top .single-footer-caption .footer-logo {
   margin-bottom: 30px;
+}
+.footer-area .footer-top .single-footer-caption .footer-logo img {
+  height: 120px;
 }
 .footer-area .footer-top .single-footer-caption .footer-pera .info1 {
   line-height: 1.8;
